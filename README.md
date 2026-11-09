@@ -22,11 +22,6 @@ diet:        shiny objects, PE/ELF headers, çay
 
 ### 🛠️ Things I built (and somehow work)
 
-| Project | What it does | Crow rating |
-|---|---|---|
-| [**re-context**](https://github.com/vinnor/re-context) | Turns PE/ELF binaries into ranked, high-signal reverse-engineering context for humans *and* LLMs. Stop reversing the noise. | 🐦🐦🐦🐦🐦 |
-| [**thorfinn-yukleyici**](https://github.com/vinnor/thorfinn-yukleyici) | Personal YouTube uploader, because clicking "upload" 40 times is beneath a crow. | 🐦🐦🐦 |
-
 ### 🧰 Toolbox
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
