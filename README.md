@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=A0A0A0&center=true&vCenter=true&width=600&lines=caw.+hi%2C+i'm+vinnor+%F0%9F%90%A6%E2%80%8D%E2%AC%9B;i+collect+shiny+bytes;web+design+student+%2F+binary+goblin;my+AI+writes+code%2C+i+take+the+credit" alt="caw" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=A0A0A0&center=true&vCenter=true&width=600&lines=caw.+hi%2C+i'm+vinnor+%F0%9F%90%A6;i+collect+shiny+bytes;web+design+student+%2F+binary+goblin;my+AI+writes+code%2C+i+take+the+credit" alt="caw" />
 
 **Web design & coding student by day. Picks apart binaries by night. Crow at all times.**
 
@@ -8,7 +8,7 @@
 
 ---
 
-### 🐦‍⬛ `whoami`
+### 🐦 `whoami`
 
 ```yaml
 name:        vinnor
@@ -24,8 +24,8 @@ diet:        shiny objects, PE/ELF headers, çay
 
 | Project | What it does | Crow rating |
 |---|---|---|
-| [**re-context**](https://github.com/vinnor/re-context) | Turns PE/ELF binaries into ranked, high-signal reverse-engineering context for humans *and* LLMs. Stop reversing the noise. | 🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛🐦‍⬛ |
-| [**thorfinn-yukleyici**](https://github.com/vinnor/thorfinn-yukleyici) | Personal YouTube uploader, because clicking "upload" 40 times is beneath a crow. | 🐦‍⬛🐦‍⬛🐦‍⬛ |
+| [**re-context**](https://github.com/vinnor/re-context) | Turns PE/ELF binaries into ranked, high-signal reverse-engineering context for humans *and* LLMs. Stop reversing the noise. | 🐦🐦🐦🐦🐦 |
+| [**thorfinn-yukleyici**](https://github.com/vinnor/thorfinn-yukleyici) | Personal YouTube uploader, because clicking "upload" 40 times is beneath a crow. | 🐦🐦🐦 |
 
 ### 🧰 Toolbox
 
@@ -46,6 +46,6 @@ diet:        shiny objects, PE/ELF headers, çay
 
 <div align="center">
 
-<sub>🐦‍⬛ If you star a repo, a crow somewhere brings you a shiny button. Probably.</sub>
+<sub>🐦 If you star a repo, a crow somewhere brings you a shiny button. Probably.</sub>
 
 </div>
